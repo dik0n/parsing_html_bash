@@ -1,7 +1,7 @@
 #!/usr/bin/env bash
 
 ################################################################################
-# Titulo    : Parsing HTML                                                     #
+# Titulo    : .Parsing HTML                                                     #
 # Versao    : 1.7                                                              #
 # Data      : 16/10/2019                                                       #
 # Homepage  : https://www.desecsecurity.com                                    #
